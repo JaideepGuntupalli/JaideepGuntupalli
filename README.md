@@ -4,7 +4,7 @@
 - 📫 You can reach me by mailing me at guntupallijaideep@gmail.com or just message me on twitter.
 - Have a great day!:v:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 JaideepGuntupalli/JaideepGuntupalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
