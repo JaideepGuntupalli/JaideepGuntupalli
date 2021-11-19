@@ -10,17 +10,18 @@
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/jaideep-guntupalli/"><img align="left" src="images/linkedin.png" alt="Jaideep Guntupalli | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/gjdeep"><img align="left" src="images/twitter.png" alt="Jaideep Guntupalli | Twitter" width="21px"/></a>
-<a href="https://jaideepguntupalli.hashnode.com/"><img align="left" src="images/hashnode.png" alt="Jaideep Guntupalli | Hashnode" width="21px"/></a>
+<a href="https://www.linkedin.com/in/jaideep-guntupalli/"><img align="left" src="images/linkedin.png" alt="Jaideep Guntupalli | LinkedIn" width="42px"/></a>
+<a href="https://twitter.com/gjdeep"><img align="left" src="images/twitter.png" alt="Jaideep Guntupalli | Twitter" width="42px"/></a>
+<a href="https://jaideepguntupalli.hashnode.dev/"><img align="left" src="images/hashnode.png" alt="Jaideep Guntupalli | Hashnode" width="42px"/></a>
 
-
+<br />
 ----
 
 [![Jaideep's github activity graph](https://activity-graph.herokuapp.com/graph?username=JaideepGuntupalli&theme=redical)](https://github.com/JaideepGuntupalli)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=dark&show_icons=true)](https://github.com/JaideepGuntupalli) -->
 
+<br />
 ----
 
 
@@ -29,12 +30,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=radical&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaideepGuntupalli&theme=radical" />
 </p>
-
-[blog]: https://jaideepguntupalli.hashnode.dev/
-[twitter]: https://twitter.com/gjdeep
-[linkedin]: https://linkedin.com/in/jaideep-guntupalli
-
-<!---
-JaideepGuntupalli/JaideepGuntupalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
