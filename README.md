@@ -4,15 +4,22 @@
 - 🏫  I am currently pursuing B.tech in Computer Science and Design at [IIIT Delhi](https://iiitd.ac.in).
 - 👀  I am a tech enthusiast & an open-source advocate.
 - 🥅  My Goal for coming months is to contribute more to open source.
-- 📞  Find out more about me & feel free to connect with me here:
+- ⚡ Fun fact: I love to cricket.
+
+### Connect with me:
 
 [<img align="left" alt="Jaideep's blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
 [<img align="left" alt="Jaideep | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jaideep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
+
 [![Jaideep's github activity graph](https://activity-graph.herokuapp.com/graph?username=JaideepGuntupalli&theme=redical)](https://github.com/JaideepGuntupalli)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=dark&show_icons=true)](https://github.com/JaideepGuntupalli) -->
+
+<br />
+
 
 <p align="center">
 	
