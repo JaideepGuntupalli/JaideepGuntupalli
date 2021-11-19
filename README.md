@@ -10,8 +10,8 @@
 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=dark&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaideepGuntupalli" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaideepGuntupalli&theme=radical" />
 </p>
 
 <!---
