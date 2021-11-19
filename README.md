@@ -4,7 +4,15 @@
 - 📫 You can reach me by mailing me at guntupallijaideep@gmail.com or just message me on twitter.
 - Have a great day!:v:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaideep's github activity graph](https://activity-graph.herokuapp.com/graph?username=JaideepGuntupalli&theme=xcode)](https://github.com/JaideepGuntupalli)
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=dark&show_icons=true)](https://github.com/JaideepGuntupalli) -->
+
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=dark&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaideepGuntupalli" />
+</p>
 
 <!---
 JaideepGuntupalli/JaideepGuntupalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
