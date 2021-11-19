@@ -1,6 +1,6 @@
 ## Hi, I am Jaideep! Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<img alt="Animated Cover" src="Jaideep Guntupalli cover.gif"> </img>
+<img alt="Animated Cover" src="images/Jaideep Guntupalli cover.gif"> </img>
 
 - 👋  Hi, I’m Jaideep Guntupalli.
 - 🏫  I am currently pursuing B.tech in Computer Science and Design at [IIIT Delhi](https://iiitd.ac.in).
