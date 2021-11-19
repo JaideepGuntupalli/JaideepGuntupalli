@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/jaideep-guntupalli/"><img align="left" src="images/linkedin.png" alt="Jaideep Guntupalli | LinkedIn" width="42px"/></a>
 <a href="https://twitter.com/gjdeep"><img align="left" src="images/twitter.png" alt="Jaideep Guntupalli | Twitter" width="42px"/></a>
 <a href="https://jaideepguntupalli.hashnode.dev/"><img align="left" src="images/hashnode.png" alt="Jaideep Guntupalli | Hashnode" width="42px"/></a>
-<a href="https://app.daily.dev/gjdeep"><img align="left" src="images/dailydev.png" alt="Jaideep Guntupalli | DailyDev" width="42px"/></a>
+<a href="https://app.daily.dev/gjdeep"><img align="left" src="images/dailydev.jpg" alt="Jaideep Guntupalli | DailyDev" width="42px"/></a>
 
 <br />
 
