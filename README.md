@@ -16,6 +16,7 @@
 <a href="https://app.daily.dev/gjdeep"><img align="left" src="images/dailydev.jpg" alt="Jaideep Guntupalli | DailyDev" width="42px"/></a>
 
 <br />
+<br />
 
 ----
 
@@ -23,7 +24,6 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=dark&show_icons=true)](https://github.com/JaideepGuntupalli) -->
 
-<br />
 
 ----
 
