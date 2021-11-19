@@ -1,10 +1,12 @@
 ## Hi, I am Jaideep! Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
+<img alt="Animated Cover" src="Jaideep Guntupalli cover.gif"> </img>
+
 - 👋  Hi, I’m Jaideep Guntupalli.
 - 🏫  I am currently pursuing B.tech in Computer Science and Design at [IIIT Delhi](https://iiitd.ac.in).
 - 👀  I am a tech enthusiast & an open-source advocate.
-- 🥅  My Goal for coming months is to contribute more to open source.
-- ⚡ Fun fact: I love to cricket.
+- 🥅  My Goal for the coming months is to contribute more to open source.
+- ⚡ Fun fact: I love cricket.
 
 ### Connect with me:
 
