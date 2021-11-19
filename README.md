@@ -1,4 +1,4 @@
-## Hi, I am Jaideep! Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+##  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I am Jaideep! Glad to see you here!
 
 <img alt="Animated Cover" src="images/Jaideep Guntupalli cover.gif"> </img>
 
@@ -8,7 +8,7 @@
 - 🥅  My Goal for the coming months is to contribute more to open source.
 - ⚡ Fun fact: I love cricket.
 
-### Connect with me:
+## 🤝 Connect with me:
 
 [<img align="left" alt="Jaideep's blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
 [<img align="left" alt="Jaideep | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
