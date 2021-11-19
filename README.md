@@ -13,8 +13,10 @@
 <a href="https://www.linkedin.com/in/jaideep-guntupalli/"><img align="left" src="images/linkedin.png" alt="Jaideep Guntupalli | LinkedIn" width="42px"/></a>
 <a href="https://twitter.com/gjdeep"><img align="left" src="images/twitter.png" alt="Jaideep Guntupalli | Twitter" width="42px"/></a>
 <a href="https://jaideepguntupalli.hashnode.dev/"><img align="left" src="images/hashnode.png" alt="Jaideep Guntupalli | Hashnode" width="42px"/></a>
+<a href="https://app.daily.dev/gjdeep"><img align="left" src="images/dailydev.png" alt="Jaideep Guntupalli | DailyDev" width="42px"/></a>
 
 <br />
+
 ----
 
 [![Jaideep's github activity graph](https://activity-graph.herokuapp.com/graph?username=JaideepGuntupalli&theme=redical)](https://github.com/JaideepGuntupalli)
@@ -22,6 +24,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=dark&show_icons=true)](https://github.com/JaideepGuntupalli) -->
 
 <br />
+
 ----
 
 
