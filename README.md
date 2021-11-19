@@ -10,9 +10,10 @@
 
 ## 🤝 Connect with me:
 
-[<img align="left" alt="Jaideep's blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
-[<img align="left" alt="Jaideep | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Jaideep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/jaideep-guntupalli/"><img align="left" src="images/linkedin.png" alt="Jaideep Guntupalli | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/gjdeep"><img align="left" src="images/twitter.png" alt="Jaideep Guntupalli | Twitter" width="21px"/></a>
+<a href="https://jaideepguntupalli.hashnode.com/"><img align="left" src="images/hashnode.png" alt="Jaideep Guntupalli | Hashnode" width="21px"/></a>
+
 
 ----
 
