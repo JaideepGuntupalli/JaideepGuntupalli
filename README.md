@@ -20,7 +20,7 @@
 
 ----
 
-[![Jaideep's github activity graph](https://activity-graph.herokuapp.com/graph?username=JaideepGuntupalli&theme=redical)](https://github.com/JaideepGuntupalli)
+[![Jaideep's github activity graph](https://activity-graph.herokuapp.com/graph?username=JaideepGuntupalli&theme=redical&count_private=true)](https://github.com/JaideepGuntupalli)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=dark&show_icons=true)](https://github.com/JaideepGuntupalli) -->
 
@@ -31,5 +31,5 @@
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=radical&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaideepGuntupalli&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaideepGuntupalli&theme=radical&count_private=true" />
 </p>
