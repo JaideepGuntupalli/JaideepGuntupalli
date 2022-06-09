@@ -1,4 +1,4 @@
-##  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3px"> Hi, I am Jaideep! Glad to see you here!
+<!-- ##  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3px"> Hi, I am Jaideep! Glad to see you here! -->
 
 <img alt="Animated Cover" src="images/Jaideep Guntupalli cover.gif"> </img>
 
