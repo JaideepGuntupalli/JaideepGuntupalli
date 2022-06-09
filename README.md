@@ -1,4 +1,6 @@
-<!-- ##  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3px"> Hi, I am Jaideep! Glad to see you here! -->
+<!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3px"> -->
+
+##   Hi, I am Jaideep! Glad to see you here!
 
 <img alt="Animated Cover" src="images/Jaideep Guntupalli cover.gif"> </img>
 
@@ -6,7 +8,7 @@
 - 🏫  I am currently pursuing B.tech in Computer Science and Design at [IIIT Delhi](https://iiitd.ac.in).
 - 👀  I am a tech enthusiast & an open-source advocate.
 - 🥅  My Goal for the next few months to try and contribute more to open source.
-- ⚡ Fun fact: I love cricket.
+- ⚡ Fun fact: I love Formula One.
 
 ## 🛠 Tools I worked with:
 
@@ -39,7 +41,7 @@
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/jaideep-guntupalli/"><img align="left" src="images/linkedin.png" alt="Jaideep Guntupalli | LinkedIn" width="42px"/></a>
+<a href="http://linkedin.jaideepguntupalli.com/"><img align="left" src="images/linkedin.png" alt="Jaideep Guntupalli | LinkedIn" width="42px"/></a>
 <a href="https://twitter.com/gjdeep"><img align="left" src="images/twitter.png" alt="Jaideep Guntupalli | Twitter" width="42px"/></a>
 <a href="https://blog.jaideepguntupalli.com"><img align="left" src="images/hashnode.png" alt="Jaideep Guntupalli | Hashnode" width="42px"/></a>
 <a href="https://app.daily.dev/gjdeep"><img align="left" src="images/dailydev.jpg" alt="Jaideep Guntupalli | DailyDev" width="42px"/></a>
