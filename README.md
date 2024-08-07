@@ -3,7 +3,7 @@
 <img alt="Animated Cover" src="images/Jaideep Guntupalli cover.gif"> </img>
 
 - 👋  Hi, I’m Jaideep Guntupalli.
-- 🏫  I am currently pursuing B.tech in Computer Science and Design at [IIIT Delhi](https://iiitd.ac.in).
+- 🏫  I graduated with a B.Tech in Computer Science and Design from [IIIT Delhi](https://iiitd.ac.in).
 - 👀  I am a tech enthusiast & an open-source advocate.
 - 🥅  My Goal for the next few months to try and contribute more to open source.
 - ⚡ Fun fact: I love Formula One.
