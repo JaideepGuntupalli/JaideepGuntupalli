@@ -46,9 +46,9 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="http://linkedin.jaideepguntupalli.com/" target="_blank" rel="noopener noreferrer"><img src="images/linkedin.png" alt="Jaideep Guntupalli | LinkedIn" width="42px"/></a>   
-  <a href="https://twitter.com/gjdeep" target="_blank" rel="noopener noreferrer"><img src="images/twitter.png" alt="Jaideep Guntupalli | Twitter" width="42px"/></a>   
-  <a href="https://blog.jaideepguntupalli.com" target="_blank" rel="noopener noreferrer"><img src="images/hashnode.png" alt="Jaideep Guntupalli | Hashnode" width="42px"/></a>   
+  <a href="http://linkedin.jaideepguntupalli.com/" target="_blank" rel="noopener noreferrer"><img src="images/linkedin.png" alt="Jaideep Guntupalli | LinkedIn" width="42px"/></a>   
+  <a href="https://twitter.com/gjdeep" target="_blank" rel="noopener noreferrer"><img src="images/twitter.png" alt="Jaideep Guntupalli | Twitter" width="42px"/></a>   
+  <a href="https://blog.jaideepguntupalli.com" target="_blank" rel="noopener noreferrer"><img src="images/hashnode.png" alt="Jaideep Guntupalli | Hashnode" width="42px"/></a>   
   <a href="https://app.daily.dev/gjdeep" target="_blank" rel="noopener noreferrer"><img src="images/dailydev.jpg" alt="Jaideep Guntupalli | DailyDev" width="42px"/></a>
 </p>
 
@@ -60,6 +60,7 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=radical&show_icons=true" alt="Jaideep Guntupalli's GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaideepGuntupalli&theme=radical&count_private=true" alt="Jaideep Guntupalli's GitHub Streak"/>
+  <a href="https://github.com/JaideepGuntupalli" target="_blank" rel="noopener noreferrer">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&show_icons=true&theme=radical&count_private=true" alt="Jaideep Guntupalli's GitHub Stats"/>
+  </a>
 </p>
